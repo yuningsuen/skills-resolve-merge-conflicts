@@ -1,1 +1,5 @@
-Some conflicting   content.
+# References
+
+* octocat 1 😈
+
+>conflicts resolved
